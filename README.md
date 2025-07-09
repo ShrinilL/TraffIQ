@@ -1,5 +1,7 @@
 # Smart-Traffic-Management-System
 
+TraffIQ is a smart traffic management system that controls traffic signal timings dynamically.
+
 “Driving intelligence into every intersection from congestion to coordination where traffic flows smarter, safer, and greener.”
 
 The uniqueness of our project lies in its real-time adaptive traffic control using low-cost 
